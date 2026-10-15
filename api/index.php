@@ -1,4 +1,2 @@
-
-<?php
-
-echo "Hello World!";
+<?php 
+require __DIR__. '/../public/index.php';
